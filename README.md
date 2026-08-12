@@ -1,16 +1,26 @@
-## Hi there 👋
+# Nikita
 
-<!--
-**PrimeN2/PrimeN2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Python / Django / Go
 
-Here are some ideas to get you started:
+3rd-year CS major student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on backend development philosophy and interested in building
+complex object-oriented systems.
+
+## Tech Stack
+
+- Python / Django / Django REST Framework
+- Go
+- PostgreSQL
+- Git
+- Docker
+- C# / Unity
+
+## Projects
+
+- [Hackathon: idChess Video Generation](https://github.com/PrimeN2/FRIFELX-MATMOD-CASE-2) — 
+  Backend and service integration for automated chess video analysis and generation. Python, Django, FFmpeg, Stockfish.
+- [Kafe](https://github.com/PrimeN2/kafe-go-project) — 
+  Freelance web application for ordering gift cards. Go, Gorilla Mux, email integration.- [Project 3] — short description
+  - [go-todo-api](https://github.com/PrimeN2/go-todo-api) — 
+  REST API for task management with PostgreSQL, GORM, Docker and tests.
