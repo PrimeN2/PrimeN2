@@ -24,3 +24,7 @@ complex object-oriented systems.
   Freelance web application for ordering gift cards. Go, Gorilla Mux, email integration.
 - [go-todo-api](https://github.com/PrimeN2/go-todo-api) — 
   REST API for task management with PostgreSQL, GORM, Docker and tests.
+- [TeamFinder](https://github.com/PrimeN2/team-finder-ad) —
+  Django-based platform for finding teammates for pet projects. Features user authentication, public profiles, project management, favorites, user filtering, PostgreSQL, Docker and automated tests.
+- [Count Battlers](https://github.com/PrimeN2/CountBattlersGame) —
+  Hyper-casual runner independently developed from prototype to MVP using Unity and C#. Implemented the core gameplay systems, mechanics and level progression.
